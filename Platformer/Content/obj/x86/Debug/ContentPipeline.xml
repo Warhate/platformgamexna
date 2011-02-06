@@ -1,0 +1,162 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>testFont.png</Source>
+      <Name>testFon</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Warh\Documents\Visual Studio 2008\Projects\Platformer\Platformer\bin\x86\Debug\Content\testFon.xnb</Output>
+      <Time>2011-01-22T14:26:00.8934651+02:00</Time>
+    </Item>
+    <Item>
+      <Source>cursor.png</Source>
+      <Name>cursor</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Warh\Documents\Visual Studio 2008\Projects\Platformer\Platformer\bin\x86\Debug\Content\cursor.xnb</Output>
+      <Time>2011-01-22T14:48:05.5950788+02:00</Time>
+    </Item>
+    <Item>
+      <Source>null.png</Source>
+      <Name>null</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Warh\Documents\Visual Studio 2008\Projects\Platformer\Platformer\bin\x86\Debug\Content\null.xnb</Output>
+      <Time>2011-01-22T15:30:33.8529229+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Font.spritefont</Source>
+      <Name>Font</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Warh\Documents\Visual Studio 2008\Projects\Platformer\Platformer\bin\x86\Debug\Content\Font.xnb</Output>
+      <Time>2011-01-22T15:43:58.1736787+02:00</Time>
+    </Item>
+    <Item>
+      <Source>fon-46.jpg</Source>
+      <Name>fon-46</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Warh\Documents\Visual Studio 2008\Projects\Platformer\Platformer\bin\x86\Debug\Content\fon-46.xnb</Output>
+      <Time>2011-01-28T10:37:40.930319+02:00</Time>
+    </Item>
+    <Item>
+      <Source>fon-55.jpg</Source>
+      <Name>fon-55</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Warh\Documents\Visual Studio 2008\Projects\Platformer\Platformer\bin\x86\Debug\Content\fon-55.xnb</Output>
+      <Time>2011-01-28T18:20:05.594265+02:00</Time>
+    </Item>
+    <Item>
+      <Source>icontexto-green-01.png</Source>
+      <Name>icontexto-green-01</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Warh\Documents\Visual Studio 2008\Projects\Platformer\Platformer\bin\x86\Debug\Content\icontexto-green-01.xnb</Output>
+      <Time>2011-01-30T15:10:00.9667751+02:00</Time>
+    </Item>
+    <Item>
+      <Source>FruitFont.spritefont</Source>
+      <Name>FruitFont</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Warh\Documents\Visual Studio 2008\Projects\Platformer\Platformer\bin\x86\Debug\Content\FruitFont.xnb</Output>
+      <Time>2011-02-01T15:53:57.6617994+02:00</Time>
+    </Item>
+    <Item>
+      <Source>trava.jpg</Source>
+      <Name>trava</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Warh\Documents\Visual Studio 2008\Projects\Platformer\Platformer\bin\x86\Debug\Content\trava.xnb</Output>
+      <Time>2011-02-03T00:58:55.6423546+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Coin.png</Source>
+      <Name>Coin</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Warh\Documents\Visual Studio 2008\Projects\Platformer\Platformer\bin\x86\Debug\Content\Coin.xnb</Output>
+      <Time>2011-02-03T01:33:25.9079009+02:00</Time>
+    </Item>
+    <Item>
+      <Source>CoinsFont.spritefont</Source>
+      <Name>CoinsFont</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Warh\Documents\Visual Studio 2008\Projects\Platformer\Platformer\bin\x86\Debug\Content\CoinsFont.xnb</Output>
+      <Time>2011-02-03T01:35:40.2930767+02:00</Time>
+    </Item>
+    <Item>
+      <Source>blackFon.png</Source>
+      <Name>blackFon</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Warh\Documents\Visual Studio 2008\Projects\Platformer\Platformer\bin\x86\Debug\Content\blackFon.xnb</Output>
+      <Time>2011-02-05T20:05:42.5612936+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Tomat.png</Source>
+      <Name>Tomat</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Warh\Documents\Visual Studio 2008\Projects\Platformer\Platformer\bin\x86\Debug\Content\Tomat.xnb</Output>
+      <Time>2011-02-05T21:47:06.4231545+02:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <TargetPlatform>Windows</TargetPlatform>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>C:\Users\Warh\Documents\Visual Studio 2008\Projects\Platformer\Platformer\Content\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\Warh\Documents\Visual Studio 2008\Projects\Platformer\Platformer\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\Warh\Documents\Visual Studio 2008\Projects\Platformer\Platformer\Content\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\Warh\Documents\Visual Studio 2008\Projects\Platformer\Platformer\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v3.1\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2009-05-28T00:16:14+03:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v3.1\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2009-05-28T00:16:06+03:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v3.1\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2009-05-28T00:16:16+03:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v3.1\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2009-05-28T00:16:26+03:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v3.1\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2009-05-28T00:16:12+03:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v3.1\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2009-05-28T00:16:06+03:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Windows\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\3.1.0.0__6d5c3888ef60e27d\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2010-07-07T00:30:15.9925691+03:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>

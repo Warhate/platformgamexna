@@ -1,0 +1,8 @@
+C:\Users\Warh\Documents\Visual Studio 2008\Projects\Platformer\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\Warh\Documents\Visual Studio 2008\Projects\Platformer\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\Warh\Documents\Visual Studio 2008\Projects\Platformer\WindowsFormsApplication1\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Warh\Documents\Visual Studio 2008\Projects\Platformer\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\Warh\Documents\Visual Studio 2008\Projects\Platformer\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Warh\Documents\Visual Studio 2008\Projects\Platformer\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\Warh\Documents\Visual Studio 2008\Projects\Platformer\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\Warh\Documents\Visual Studio 2008\Projects\Platformer\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
